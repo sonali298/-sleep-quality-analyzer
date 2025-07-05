@@ -16,6 +16,17 @@ you detect snoring, coughing,and other sleep-related sounds.
 ![image](https://github.com/user-attachments/assets/77e6f4b6-8600-42ba-b7c4-f56bad97ee3d)
 
 
+#Explanation
+In the waveform graph of the audio recording, the amplitude represents the intensity of sound over time.
+
+->Flat Graph: If the waveform appears mostly flat with little variation, this indicates that the individual
+likely experienced a peaceful night’s sleep, free from disturbances such as coughing or snoring. This suggests
+a good quality of sleep, where the person remained undisturbed.
+
+->Varying Graph: Conversely, if the graph shows significant fluctuations and peaks, this suggests the presence of 
+sound events during the night, such as coughing or snoring. These variations indicate interruptions in sleep, 
+which may negatively impact the quality of rest.
+
 
 #Installation
 git clone https://github.com/sonali298/sleep-quality-analyzer.git
