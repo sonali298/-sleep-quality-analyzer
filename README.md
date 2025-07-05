@@ -13,6 +13,8 @@ you detect snoring, coughing,and other sleep-related sounds.
 ->(Add any other features you plan)
 
 #Demo
+![image](https://github.com/user-attachments/assets/77e6f4b6-8600-42ba-b7c4-f56bad97ee3d)
+
 
 
 #Installation
